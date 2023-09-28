@@ -4,25 +4,28 @@ In this repository, you will find all my solutions on the Hacker Rank website. I
 
 # Timeline
 
-| Problem| Date | Solution |
-|:---|:---:|:---:|
-| Revising the Select Query I | undefined | [Solution]() |
-| Select All | undefined | [Solution]() |
-| Select By ID | undefined | [Solution]() |
-| Japanese Cities' Attributes | undefined | [Solution]() |
-| Japanese Cities' Names | undefined | [Solution]() |
-| Weather Observation Station 1 | undefined | [Solution]() |
-| Weather Observation Station 3 | undefined | [Solution]() |
-| Employee Names | undefined | [Solution]() |
-| **I've erned my 1st Star Badge 🌟** | **28-09-2023** | ########## |
-| Employee Salaries | 28-09-2023 | [Solution]() |
-| Weather Observation Station 4 | 28-09-2023 | [Solution]() |
-| Weather Observation Station 5 | 28-09-2023 | [Solution]() |
-| Weather Observation Station 6 | 28-09-2023 | [Solution]() |
-| Weather Observation Station 7 | 28-09-2023 | [Solution]() |
-| Weather Observation Station 8 | 28-09-2023 | [Solution]() |
-| Weather Observation Station 9 | 28-09-2023 | [Solution]() |
-| **I've erned my 1st Star Badge 🌟** | **28-09-2023** | ########## |
+| Problem| Date |
+|:---|:---:|
+| Revising the Select Query I | undefined |
+| Select All | undefined |
+| Select By ID | undefined |
+| Japanese Cities' Attributes | undefined |
+| Japanese Cities' Names | undefined |  
+| Weather Observation Station 1 | undefined |
+| Weather Observation Station 3 | undefined |
+| Employee Names | undefined |
+| **I've erned my 1st Star Badge 🌟** | **28-09-2023** |
+| Employee Salaries | 28-09-2023 |  |
+| Weather Observation Station 4 | 28-09-2023 |
+| Weather Observation Station 5 | 28-09-2023 |
+| Weather Observation Station 6 | 28-09-2023 |
+| Weather Observation Station 7 | 28-09-2023 |
+| Weather Observation Station 8 | 28-09-2023 |
+| Weather Observation Station 9 | 28-09-2023 | 
+| **I've erned my 1st Star Badge 🌟** | **28-09-2023** |
+| Weather Observation Station 10 | 28-09-2023 |
+| Weather Observation Station 11 | 28-09-2023 |
+| Weather Observation Station 12 | 28-09-2023 |
 
 
 # Resources
