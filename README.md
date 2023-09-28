@@ -36,6 +36,10 @@ In this repository, you will find all my solutions on the Hacker Rank website. I
 | Population Density Difference | 28-09-2023 |
 | Weather Observation Station 2 | 28-09-2023 |
 | **I've erned my 3rd Star Badge 🌟** | **28-09-2023** |
+| Weather Observation Station 13 | 28-09-2023 |
+| Weather Observation Station 14 | 28-09-2023 |
+| Weather Observation Station 16 | 28-09-2023 |
+
 
 
 
