@@ -1,0 +1,1 @@
+SELECT * FROM store.orders WHERE order_date > '2018-01-01' and order_date <= '2019-01-01';
