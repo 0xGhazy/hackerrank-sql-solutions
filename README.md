@@ -22,10 +22,22 @@ In this repository, you will find all my solutions on the Hacker Rank website. I
 | Weather Observation Station 7 | 28-09-2023 |
 | Weather Observation Station 8 | 28-09-2023 |
 | Weather Observation Station 9 | 28-09-2023 | 
-| **I've erned my 1st Star Badge 🌟** | **28-09-2023** |
+| **I've erned my 2nd Star Badge 🌟** | **28-09-2023** |
 | Weather Observation Station 10 | 28-09-2023 |
 | Weather Observation Station 11 | 28-09-2023 |
 | Weather Observation Station 12 | 28-09-2023 |
+| Higher Than 75 Marks | 28-09-2023 |
+| Revising the Select Query II| 28-09-2023 |
+| **ALL BASIC SELECT PROBLEMS SOKVED :)** | -------- |
+| Revising Aggregations - The Count Function | 28-09-2023 |
+| Revising Aggregations - Averages | 28-09-2023 |
+| Average Population | 28-09-2023 |
+| Japan Population | 28-09-2023 |
+| Population Density Difference | 28-09-2023 |
+| Weather Observation Station 2 | 28-09-2023 |
+| **I've erned my 3rd Star Badge 🌟** | **28-09-2023** |
+
+
 
 
 # Resources
