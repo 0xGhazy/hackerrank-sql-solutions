@@ -1,0 +1,1 @@
+SELECT * FROM store.customers WHERE (address LIKE '%Trail%' OR address LIKE '%Avenue%');

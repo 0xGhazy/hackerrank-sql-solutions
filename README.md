@@ -28,7 +28,7 @@ In this repository, you will find all my solutions on the Hacker Rank website. I
 | Weather Observation Station 12 | 28-09-2023 |
 | Higher Than 75 Marks | 28-09-2023 |
 | Revising the Select Query II| 28-09-2023 |
-| **ALL BASIC SELECT PROBLEMS SOKVED :)** | -------- |
+| **ALL BASIC SELECT PROBLEMS SOLVED :)** | -------- |
 | Revising Aggregations - The Count Function | 28-09-2023 |
 | Revising Aggregations - Averages | 28-09-2023 |
 | Average Population | 28-09-2023 |
@@ -46,6 +46,7 @@ In this repository, you will find all my solutions on the Hacker Rank website. I
 
 # Resources
 - [Complete SQL Mastery](https://codewithmosh.com/p/complete-sql-mastery)
+- [ITI-Database basics course - Arabic]()
 - [HackerRank SQL Problems Set](https://www.hackerrank.com/domains/sql)
 - SQL Notes - Coming Soon 😊
 - [Hossam Hamdy @ HackerRank](https://www.hackerrank.com/0xghazy)
