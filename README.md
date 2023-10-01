@@ -39,6 +39,9 @@ In this repository, you will find all my solutions on the Hacker Rank website. I
 | Weather Observation Station 13 | 28-09-2023 |
 | Weather Observation Station 14 | 28-09-2023 |
 | Weather Observation Station 16 | 28-09-2023 |
+| Weather Observation Station 15 | 01-10-2023 |
+| Weather Observation Station 18 | 01-10-2023 |
+| Weather Observation Station 19 | 01-10-2023 |
 
 
 
