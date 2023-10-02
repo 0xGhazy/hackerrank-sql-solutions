@@ -42,8 +42,10 @@ In this repository, you will find all my solutions on the Hacker Rank website. I
 | Weather Observation Station 15 | 01-10-2023 |
 | Weather Observation Station 18 | 01-10-2023 |
 | Weather Observation Station 19 | 01-10-2023 |
-
-
+| African Cities | 02-10-2023 |
+| Population Census | 02-10-2023 |
+| Average Population of Each Continent | 02-10-2023 |
+| **I've erned my 4th Star Badge 🌟** | **02-10-2023** |
 
 
 
