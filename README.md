@@ -46,12 +46,13 @@ In this repository, you will find all my solutions on the Hacker Rank website. I
 | Population Census | 02-10-2023 |
 | Average Population of Each Continent | 02-10-2023 |
 | **I've erned my 4th Star Badge 🌟** | **02-10-2023** |
-
+| Revising Aggregations - The Sum Function | 02-10-2023 |
+| The Blunder | 02-10-2023 |
 
 
 # Resources
 - [Complete SQL Mastery](https://codewithmosh.com/p/complete-sql-mastery)
-- [ITI-Database basics course - Arabic]()
+- [ITI-Database basics course - Arabic](https://www.youtube.com/playlist?list=PLYpJKvLDuJhgMzOXRwUJ2_ZlVt3zSh8PA)
 - [HackerRank SQL Problems Set](https://www.hackerrank.com/domains/sql)
-- SQL Notes - Coming Soon 😊
+- [SQL Notes](https://0xghazy.github.io/notes/sql-cheat-sheet/)
 - [Hossam Hamdy @ HackerRank](https://www.hackerrank.com/0xghazy)
