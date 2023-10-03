@@ -14,7 +14,7 @@ In this repository, you will find all my solutions on the Hacker Rank website. I
 | Weather Observation Station 1 | undefined |
 | Weather Observation Station 3 | undefined |
 | Employee Names | undefined |
-| **I've erned my 1st Star Badge 🌟** | **28-09-2023** |
+| **I've earned my 1st Star Badge 🌟** | **28-09-2023** |
 | Employee Salaries | 28-09-2023 |  |
 | Weather Observation Station 4 | 28-09-2023 |
 | Weather Observation Station 5 | 28-09-2023 |
@@ -22,7 +22,7 @@ In this repository, you will find all my solutions on the Hacker Rank website. I
 | Weather Observation Station 7 | 28-09-2023 |
 | Weather Observation Station 8 | 28-09-2023 |
 | Weather Observation Station 9 | 28-09-2023 | 
-| **I've erned my 2nd Star Badge 🌟** | **28-09-2023** |
+| **I've earned my 2nd Star Badge 🌟** | **28-09-2023** |
 | Weather Observation Station 10 | 28-09-2023 |
 | Weather Observation Station 11 | 28-09-2023 |
 | Weather Observation Station 12 | 28-09-2023 |
@@ -35,7 +35,7 @@ In this repository, you will find all my solutions on the Hacker Rank website. I
 | Japan Population | 28-09-2023 |
 | Population Density Difference | 28-09-2023 |
 | Weather Observation Station 2 | 28-09-2023 |
-| **I've erned my 3rd Star Badge 🌟** | **28-09-2023** |
+| **I've earned my 3rd Star Badge 🌟** | **28-09-2023** |
 | Weather Observation Station 13 | 28-09-2023 |
 | Weather Observation Station 14 | 28-09-2023 |
 | Weather Observation Station 16 | 28-09-2023 |
@@ -45,7 +45,7 @@ In this repository, you will find all my solutions on the Hacker Rank website. I
 | African Cities | 02-10-2023 |
 | Population Census | 02-10-2023 |
 | Average Population of Each Continent | 02-10-2023 |
-| **I've erned my 4th Star Badge 🌟** | **02-10-2023** |
+| **I've earned my 4th Star Badge 🌟** | **02-10-2023** |
 | Revising Aggregations - The Sum Function | 02-10-2023 |
 | The Blunder | 02-10-2023 |
 
