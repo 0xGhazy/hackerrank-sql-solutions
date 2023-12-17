@@ -48,6 +48,9 @@ In this repository, you will find all my solutions on the Hacker Rank website. I
 | **I've earned my 4th Star Badge 🌟** | **02-10-2023** |
 | Revising Aggregations - The Sum Function | 02-10-2023 |
 | The Blunder | 02-10-2023 |
+| Type of Triangle | 17-12-2023|
+| Top Earners | 17-12-2023|
+
 
 
 # Resources
