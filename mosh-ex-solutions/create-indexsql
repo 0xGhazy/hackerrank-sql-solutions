@@ -1,0 +1,7 @@
+EXPLAIN SELECT * FROM store.customers WHERE points > 1000;
+-- result: 1010 row get scaned
+
+CREATE INDEX idx ON customers(points); 
+
+EXPLAIN SELECT points FROM store.customers WHERE points > 1000; 
+-- result: 529 roe get scaned
